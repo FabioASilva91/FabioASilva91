@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Back-End java.<br>Conhecimento SQL<br>Buscando colocação profissional
+Desenvolvedor Back-End java.<br>Conhecimento SQL<br>
 
 
 ## 🌐 Socials:
